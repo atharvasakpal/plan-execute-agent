@@ -1,0 +1,28 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# LangChain and AI
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+google-generativeai
+
+# Tools
+numexpr
+wikipedia
+arxiv
+tavily-python
+langchain-tavily
+
+
+# Utilities
+python-dotenv
+httpx
+
+# Production
+gunicorn
